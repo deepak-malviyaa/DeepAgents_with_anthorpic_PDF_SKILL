@@ -1,0 +1,23 @@
+Web Search Results
+==================================================
+Query   : PEP-One-Page-Report.pdf summary
+Time    : 2026-03-13 14:39:00
+==================================================
+
+🔍 Result 1:
+  Title   : Introduction to PEP-One-Page-Report.pdf summary
+  URL     : https://example.com/intro
+  Summary : This is a comprehensive guide about PEP-One-Page-Report.pdf summary.
+
+🔍 Result 2:
+  Title   : PEP-One-Page-Report.pdf summary - Best Practices
+  URL     : https://example.com/best-practices
+  Summary : Learn the best practices for working with PEP-One-Page-Report.pdf summary.
+
+🔍 Result 3:
+  Title   : Latest Updates on PEP-One-Page-Report.pdf summary
+  URL     : https://example.com/updates
+  Summary : Recent developments and news about PEP-One-Page-Report.pdf summary.
+
+==================================================
+Note: Mock results. Set TAVILY_API_KEY in .env for real search.

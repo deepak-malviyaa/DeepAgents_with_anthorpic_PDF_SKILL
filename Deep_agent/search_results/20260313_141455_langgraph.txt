@@ -1,0 +1,23 @@
+Web Search Results
+==================================================
+Query   : langgraph
+Time    : 2026-03-13 14:14:55
+==================================================
+
+🔍 Result 1:
+  Title   : Introduction to langgraph
+  URL     : https://example.com/intro
+  Summary : This is a comprehensive guide about langgraph.
+
+🔍 Result 2:
+  Title   : langgraph - Best Practices
+  URL     : https://example.com/best-practices
+  Summary : Learn the best practices for working with langgraph.
+
+🔍 Result 3:
+  Title   : Latest Updates on langgraph
+  URL     : https://example.com/updates
+  Summary : Recent developments and news about langgraph.
+
+==================================================
+Note: Mock results. Set TAVILY_API_KEY in .env for real search.
